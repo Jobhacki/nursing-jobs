@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>19,649</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-16</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>19,432</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,18 +50,28 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**19,649 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
+**19,432 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Registered Nurse (RN) - Pediatric Care Center (Part Time) | christianacare | Newark, DE |  | 2026-11-17 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Pediatric-Care-Center--Part-Time-_JR94069) |
+| RN - Med Surg ICU | carilionclinic | Roanoke, Virginia |  | 2026-11-17 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/RN---Med-Surg-ICU_R160680) |
+| Nurse Training Coordinator | Cape Cod Veterinary Specialists | Buzzards Bay, MA, US |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/veterinaryemergencysarasota/job/o0t4AfwR) |
+| Pediatric Transitional Nurse – Registered Nurse (RN) / Licensed Vocational Nurs... | Angels of Care Pediatric Home Health | Lubbock, TX, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/onz6Afwm) |
+| Pediatric Transitional Nurse – Registered Nurse (RN) / Licensed Vocational Nurs... | Angels of Care Pediatric Home Health | Conroe, TX, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/ooz6Afwn) |
+| Pediatric Transitional Nurse – Registered Nurse (RN) / Licensed Vocational Nurs... | Angels of Care Pediatric Home Health | Waxahachie, TX, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/opz6Afwo) |
+| Full Time - Nurse Practitioner or Physician Assistant - Yukon, OK | Integrity Care Group | Yukon, OK |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669978) |
+| PT Nurse Practitioner - Department of Youth Services Adolescent Health | HEALTH IMPERATIVES INC | MA |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669612) |
+| Registered Nurse | ADP employer 8802c141 | Bedford, NH, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=968079&lang=en_US&source=CC2) |
+| Nurse Practitioner or Physician Assistant - Oklahoma City OK | MRG Exams | Oklahoma City, Oklahoma, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/758399D3CF) |
+| Nurse Practitioner - Las Vegas NV | MRG Exams | Las Vegas, Nevada, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/BFE24E7790) |
 | Registered Nurse - Oncology Infusion Clinic | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=978478&lang=en) |
 | Ambulatory Triage RN - After Hours | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000MJ&lang=en) |
 | Ambulatory RN | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=977943&lang=en) |
 | Travel Registered Nurse (RN), CTICU $4,300+/Week – FlexStaff | Northwell Health | Manhasset, Nassau, United States |  | 2026-11-16 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204285) |
 | Travel Registered Nurse (RN)-PACU- FlexStaff $3,263/week | Northwell Health | New York, New York, United States |  | 2026-11-16 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203846) |
 | Registered Nurse Operating Room | Northwell Health | New Hyde Park, Queens, United States |  | 2026-11-16 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/202449) |
-| Licensed Practical/ Vocational Nurse | Madrona Hospice Care Inc. | Fairfield, California, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/CA0E8D7532) |
 | School Nurse | 9dot | Pasadena, CA |  | 2026-11-16 | [Apply](https://9dot.wd503.myworkdayjobs.com/en-US/pse/job/Pasadena-CA/School-Nurse_R016842) |
 | RN Case Manager | bcbsmn | Eagan, MN |  | 2026-11-16 | [Apply](https://bcbsmn.wd5.myworkdayjobs.com/en-US/bluecrossmn/job/Eagan-MN/RN-Case-Manager_R0006914-1) |
 | Registered Nurse (RN) - Oncology - PRN | aspenvalleyhealth | Aspen, CO |  | 2026-11-16 | [Apply](https://aspenvalleyhealth.wd501.myworkdayjobs.com/en-US/avh/job/Aspen-CO/Registered-Nurse--RN----Oncology---PRN_JR102394) |
@@ -94,7 +104,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Nurse Supervisor - Emergency Care Center - FT Nights | gmh | Main Grady Campus (Downtown Atlanta) |  | 2026-11-16 | [Apply](https://gmh.wd12.myworkdayjobs.com/en-US/external_careers/job/Main-Grady-Campus-Downtown-Atlanta/Nurse-Supervisor---Emergency-Care-Center_R26002426) |
 | Medical Specialty Unit (MSU) - Registered Nurse (RN) - Part Time - 12 hours per... | christianacare | Elkton, MD |  | 2026-11-16 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Elkton-MD/Medical-Specialty-Unit--MSU----Registered-Nurse--RN----Part-Time---12-hours-per-week---Day-Shift---Union-Hospital--Maryland-_JR93732-1) |
 | Registered Nurse - Center for Advanced Joint Replacement - Part Time Midnights | christianacare | Wilmington, DE |  | 2026-11-16 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Wilmington-DE/Registered-Nurse---Center-for-Advanced-Joint-Replacement---Part-Time-Midnights_JR94903) |
-| Registered Nurse (RN) - Wilmington Emergency Department - Part Time - Midnights | christianacare | Wilmington, DE |  | 2026-11-16 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Wilmington-DE/Registered-Nurse--RN----Wilmington-Emergency-Department---Part-Time---Midnights_JR94890) |
 | Project Nurse | walshgroup | IL\_Maywood\_226148 |  | 2026-11-16 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/IL_Maywood_226148/Project-Nurse_JR17073-1) |
 | Project Nurse | walshgroup | IL\_Orland Park\_226028 |  | 2026-11-16 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/IL_Orland-Park_226028/Project-Nurse_JR17074) |
 | Family Nurse Practitioner | brightli | St. Louis, MO |  | 2026-11-16 | [Apply](https://brightli.wd5.myworkdayjobs.com/en-US/brightlitalent/job/St-Louis-MO/Family-Nurse-Practitioner_R-27059) |
@@ -170,8 +179,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Home Infusion Nurse | luxinfusion | Harrisburg, Pennsylvania, United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/luxinfusion/jobs/4509515009) |
 | Director of Nursing | Dungarvin | Albuquerque, NM, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161859639) |
 | Licensed Practical Nurse (LPN) | Dungarvin | Farmington, NM, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161934505) |
-| Psychiatric Mental Health Nurse Practitioner (PMHNP) | lifestance | Poway, CA |  | 2026-11-16 | [Apply](https://jobs.lever.co/lifestance/ef50240d-e25b-4531-9e24-270ab1f7e42a) |
-| Outpatient Psychiatric Mental Health Nurse Practitioner (PMHNP) | lifestance | Ann Arbor, MI |  | 2026-11-16 | [Apply](https://jobs.lever.co/lifestance/008a0144-376c-47bb-a808-989219f7cc54) |
 | Nurse Manager | bayada | Williston, VT 05495 / 44.444322521 / -73.100638046 |  | 2026-11-16 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8945250002) |
 | Field Educator Registered Nurse - RN Home Health Preceptor | bayada | Vail, AZ 85641 / 32.010446998 / -110.72436243 |  | 2026-11-16 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8945148002) |
 | Inpatient Registered Nurse, Hospice | bayada | Springfield, MO 65804 / 37.162045349 / -93.252092685 |  | 2026-11-16 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8944883002) |
@@ -185,9 +192,11 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Psychiatric Nurse Practitioner, Nevada, Remote | ascendhealthcare | Nevada |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/ascendhealthcare/jobs/5296584007) |
 | Licensed Practical Nurse - Full Time | aizerhealth | 49 Forest Road Monroe, NY, 10950 |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/aizerhealth/jobs/5483120008) |
 | RN Telephonic Care Manager | Humana | Remote Nationwide |  | 2026-11-15 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/RN-Telephonic-Care-Manager_R-436971) |
-| Psychiatric Nurse Practitioner (PMHNP) in Ephrata, PA | lifestance | Ephrata, PA |  | 2026-11-15 | [Apply](https://jobs.lever.co/lifestance/1861b02b-0c2f-4909-b9da-7532424149a7) |
+| REGISTERED NURSE | ADP employer 8802c141 | Boston, MA, US |  | 2026-11-14 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=967804&lang=en_US&source=CC2) |
+| Nurse Practitioner or Physician Assistant - Prescott Valley AZ | MRG Exams | Prescott Valley, Arizona, US |  | 2026-11-14 | [Apply](https://apply.workable.com/j/EDAD161B5B) |
 | Registered Nurse, Critical Care | univofky | UKKD - Ohio Main Campus |  | 2026-11-14 | [Apply](https://univofky.wd108.myworkdayjobs.com/en-US/ukkd/job/UKKD---Ohio-Main-Campus/Registered-Nurse--Critical-Care_R-000005102-1) |
 | Supervising Public Health Nurse, Bureau of School Health | City of New York | New York City, NY, US |  | 2026-11-14 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861321) |
+| ECC Nurse Manager | Cape Cod Veterinary Specialists | Buzzards Bay, MA, US |  | 2026-11-13 | [Apply](https://jobs.jobvite.com/veterinaryemergencysarasota/job/ojR5Afwz) |
 | CNA - Skilled Nursing | uvmhealth | Malone, NY |  | 2026-11-13 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/ahmc/job/Malone-NY/CNA---Skilled-Nursing_R0088917) |
 | LPN – Skilled Nursing | uvmhealth | Malone, NY |  | 2026-11-13 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/ahmc/job/Malone-NY/LPN---Skilled-Nursing_R0089326) |
 | Registered Nurse - Birthing Center | uvmhealth | Middlebury, VT |  | 2026-11-13 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/porter/job/Middlebury-VT/Registered-Nurse---Birthing-Center_R0091606-1) |
@@ -196,15 +205,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Adjunct Faculty, Nurse Anesthesia Program | barryu | 3 Locations |  | 2026-11-13 | [Apply](https://barryu.wd5.myworkdayjobs.com/en-US/barryu/job/Hollywood-FL/Adjunct-Faculty--Nurse-Anesthesia-Program_R0007998) |
 | Licensed Practical Nurse- Mohs (Full Time) | schweigerderm | 2 Locations |  | 2026-11-13 | [Apply](https://schweigerderm.wd12.myworkdayjobs.com/en-US/schweigercareers/job/NY---Canandaigua/Licensed-Practical-Nurse--Mohs--Full-Time-_R-2535) |
 | Registered Nurse - Urgent Care Center - PRN | gmh | Main Grady Campus (Downtown Atlanta) |  | 2026-11-13 | [Apply](https://gmh.wd12.myworkdayjobs.com/en-US/external_careers/job/Main-Grady-Campus-Downtown-Atlanta/Registered-Nurse---Urgent-Care-Center---PRN_R26006064-1) |
-| Registered Nurse - 10CD Intermediate Coronary Care Unit - Full Time - Day Shift | gmh | Main Grady Campus (Downtown Atlanta) |  | 2026-11-13 | [Apply](https://gmh.wd12.myworkdayjobs.com/en-US/external_careers/job/Main-Grady-Campus-Downtown-Atlanta/Registered-Nurse---10CD-Intermediate-Coronary-Care-Unit---DayShift_R26003821) |
-| PRN Registered Nurse - Warrenville, IL | marathonhealth | IL-Warrenville |  | 2026-11-13 | [Apply](https://marathonhealth.wd501.myworkdayjobs.com/en-US/marathon-health-careers/job/IL-Warrenville/PRN-Registered-Nurse---Warrenville--IL_JR109283-1) |
-| Onsite Bilingual RN Health Coach- Evernorth- Naples, FL | cigna | Marriott - The Ritz-Carlton, Naples 280 Vanderbilt Beach Rd. Naples,... |  | 2026-11-13 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Marriott---The-Ritz-Carlton-Naples-280-Vanderbilt-Beach-Rd--Naples-FL/Onsite-Bilingual-RN-Health-Coach--Evernorth--Naples--FL_26014108) |
-| Charge Nurse - Central Region | nc | Wake County, NC |  | 2026-11-13 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Charge-Nurse---Central-Region_JR-124457) |
-| Registered Nurse I | brownhealth | Rhode Island Hospital |  | 2026-11-13 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-I_JR-115966) |
-| Registered Nurse I | brownhealth | Rhode Island Hospital |  | 2026-11-13 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-I_JR-115894) |
-| Experienced Registered Nurse, ICU, 24 hours, Day/Night Rotation | bilh | New England Baptist Hospital |  | 2026-11-13 | [Apply](https://bilh.wd1.myworkdayjobs.com/en-US/external/job/New-England-Baptist-Hospital/Experienced-Registered-Nurse--ICU--24-hours--Day-Night-Rotation_JR102372-1) |
-| Registered Nurse- Inpatient Dialysis | UVM Health Network | Burlington, VT |  | 2026-11-13 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Burlington-VT/Registered-Nurse--Inpatient-Dialysis_R0091878) |
-| Nurse Practitioner | circadiahealth | San Diego, CA |  | 2026-11-13 | [Apply](https://jobs.lever.co/circadiahealth/329edb6d-e8bf-4391-bc5a-2638cf1bc1ce) |
 <!-- JOBS_TABLE_END -->
 
 <details>
