@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>20,917</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,933</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 04:17 UTC</sub>
+<sub>Snapshot 2026-11-19 08:16 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**20,917 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**21,933 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
