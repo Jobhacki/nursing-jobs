@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>21,053</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,589</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 16:17 UTC</sub>
+<sub>Snapshot 2026-11-21 20:17 UTC</sub>
 
 </div>
 
@@ -50,16 +50,17 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**21,053 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 16:17 UTC.** Apply links go to the employer's career page or hiring system.
+**21,589 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 20:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Executive Director of Nursing | bhs | Louisville, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/Executive-Director-of-Nursing_R26109955) |
+| Dialysis Registered Nurse | freseniusmedicalcare | Rochester, NY |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rochester-NY/Dialysis-Registered-Nurse_R0272980-1) |
 | Registered Nurse (RN) - Hospital at Home - Day Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home---Day-Shift_JR94990) |
 | Registered Nurse (RN) - Hospital at Home - Night Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home_JR94988) |
 | Acute Inpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | Akron, OH |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Akron-OH/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0278946) |
 | Acute Inpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | Cincinnati, OH |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Cincinnati-OH/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0278948) |
-| Acute Inpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | Cleveland, OH |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Cleveland-OH/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0278949) |
 | Registered Nurse - Inpatient Psychiatry | UVM Health Network | Burlington, VT |  | 2026-11-21 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Burlington-VT/Registered-Nurse---Inpatient-Psychiatry_R0090841-1) |
 | Registered Nurse - Ambulatory (Pediatrics Hematology Oncology) | Northwell Health | New Hyde Park, Queens, United States |  | 2026-11-21 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204147) |
 | Registered Nurse - Ambulatory (Pediatrics Cardiology - Part Time) | Northwell Health | Bay Shore, Suffolk, United States |  | 2026-11-21 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203248) |
@@ -90,14 +91,16 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Nurse Practitioner | CVS Health | MO - Saint Peters |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MO---Saint-Peters/Nurse-Practitioner_R1111533) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
+| Part-Time Registered Nurse | Nexus Family Healing | Onamia, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683669) |
+| RN/LPN Director of Mental Health Program | Psychiatric Medical Care LLC | Baudette, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681165) |
+| PRN Acute Care / ER - Registered Nurse (RN) | Kearney County Health Services | Minden, NE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683636) |
+| PRN Acute Care / ER - Licensed Practical Nurse (LPN) | Kearney County Health Services | Minden, NE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683751) |
 | Temporary Licensed Practical Nurse | Cornerstone Family Healthcare | Middletown, NY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683377) |
 | Licensed Practical Nurse | Cornerstone Family Healthcare | Highland Falls, NY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683432) |
 | LPN, Full-time, Days, 5k sign on bonus | Shoshone Medical Center | Kellogg, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656790) |
 | Registered Nurse, RN, Full-time (days) Med/surg, 8k Sign on bonus | Shoshone Medical Center | Coeur d' Alene, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656741) |
 | Director of Nursing-Full Time\*10,000 Sign on Bonus\*Weekly Pay\* | Presbyterian Communities of South Carolina | Florence, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682322) |
 | Assistant Director of Nursing-Full Time\*5,000 Sign on Bonus, Weekly Pay\*\* | Presbyterian Communities of South Carolina | Florence, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682378) |
-| Registered Nurse Crisis Services | Detroit Wayne Integrated Health Network | Detroit, MI, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=17aa709f-d22c-4d28-8c32-567d73bb7c5a&ccId=19000101_000001&jobId=649029&lang=en_US&source=CC2) |
-| Licensed Practical Nurse | ATA | Little Rock, AR, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=16dacedb-7a98-4245-99e5-71caf71992fa&ccId=19000101_000001&jobId=600371&lang=en_US&source=CC2) |
 | Ambulatory RN - Urology Adult | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989778&lang=en) |
 | Registered Nurse PACU | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000MG&lang=en) |
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
@@ -150,6 +153,8 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Registered Nurse RN Med Surg Banner Staffing | bannerhealth | Banner North Colorado Medical Center (1801 16th St) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Registered-Nurse-RN-Med-Surg-Banner-Staffing_R4461706) |
 | Registered Nurse RN New Grad ICU | bannerhealth | BUMC South Tucson (2800 E Ajo Way) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Registered-Nurse-RN-New-Grad-ICU_R4461333-1) |
 | Registered Nurse (RN) - Pre Admission Testing (PAT) - St. Elizabeth Boardman Ho... | easyservice | Youngstown, OH |  | 2026-11-20 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Youngstown-OH/Registered-Nurse--RN----Pre-Admission-Testing--PAT----St-Elizabeth-Boardman-Hospital---PRN_R292583) |
+| RN LDR Nights | bhs | Paducah, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Paducah-KY/RN-LDR-Nights_R26109875-1) |
+| Registered Nurse OR | bhs | Elizabethtown, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Registered-Nurse-OR_R26110063-1) |
 | Registered Nurse Med/Surg | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg_JR-116065) |
 | Registered Nurse Med/Surg Nights | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Nights_JR-116063) |
 | Registered Nurse Med-Surg Days | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Days_JR-115780) |
@@ -200,11 +205,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | House Supervisor - Nursing Administration - | aspenvalleyhealth | Aspen, CO |  | 2026-11-20 | [Apply](https://aspenvalleyhealth.wd501.myworkdayjobs.com/en-US/avh/job/Aspen-CO/House-Supervisor---Nursing-Administration--_JR102407) |
 | APRN | aoncology | US-FL-Fort Myers |  | 2026-11-20 | [Apply](https://aoncology.wd12.myworkdayjobs.com/en-US/aoncology_careers/job/US-FL-Fort-Myers/APRN_JR7649) |
 | LPN / Full Time | harmonyseniorservices | Martinsburg, West Virginia |  | 2026-11-20 | [Apply](https://harmonyseniorservices.wd108.myworkdayjobs.com/en-US/harmony_careers/job/Martinsburg-West-Virginia/LPN---Full-Time_JR-005416-1) |
-| Registered Nurse | marathonhealth | TN-Kingsport |  | 2026-11-20 | [Apply](https://marathonhealth.wd501.myworkdayjobs.com/en-US/marathon-health-careers/job/TN-Kingsport/Registered-Nurse_JR109382) |
-| Registered Nurse (RN), OR Circulator | utaustin | AUSTIN, TX |  | 2026-11-20 | [Apply](https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/AUSTIN-TX/Registered-Nurse--RN---OR-Circulator_R_00050086) |
-| Pre/Post Op PACU Registered Nurse (RN) | utaustin | AUSTIN, TX |  | 2026-11-20 | [Apply](https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/AUSTIN-TX/Pre-Post-Op-PACU-Registered-Nurse--RN-_R_00050080) |
-| Registered Nurse | nc | Wayne County, NC |  | 2026-11-20 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wayne-County-NC/Registered-Nurse_JR-128459) |
-| LPN - Part-Time | pacs |  |  | 2026-11-20 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/Maryland-Gardens-Post-Acute/LPN_JR180555-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
