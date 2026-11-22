@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>21,655</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,670</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 04:17 UTC</sub>
+<sub>Snapshot 2026-11-22 08:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,15 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**21,655 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**21,670 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Registered Nurse (RN) — Stepdown — Float Pool — St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Stepdown---Float-Pool---St-Rita-s-Medical-Center_R293537) |
 | Nurse Practitioner - NP/PA | CVS Health | MD - Annapolis |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Annapolis/Nurse-Practitioner---NP-PA_R1031182) |
-| Executive Director of Nursing | bhs | Louisville, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/Executive-Director-of-Nursing_R26109955) |
+| Licensed Practical Nurse | Valor Healthcare, Inc. | Denton, TX |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3852357) |
+| Registered Nurse | Element Care | Methuen, MA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=52532d91-0809-4e90-8901-6cf15157199d&ccId=19000101_000001&jobId=592725&lang=en_US&source=CC2) |
 | Dialysis Registered Nurse | freseniusmedicalcare | Rochester, NY |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rochester-NY/Dialysis-Registered-Nurse_R0272980-1) |
 | Registered Nurse (RN) - Hospital at Home - Day Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home---Day-Shift_JR94990) |
 | Registered Nurse (RN) - Hospital at Home - Night Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home_JR94988) |
@@ -93,7 +94,14 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Nurse Practitioner | CVS Health | MO - Saint Peters |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MO---Saint-Peters/Nurse-Practitioner_R1111533) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
-| Nursing Supervisor PRN | Keswick | Baltimore, MD, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3822747f-5e4e-4961-9a9c-a943f4039103&ccId=19000101_000001&jobId=960497&lang=en_US&source=CC2) |
+| Registered Nurse RN | Valor Healthcare, Inc. | Washington, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682698) |
+| Licensed Practical Nurse LPN | Valor Healthcare, Inc. | Bloomsburg, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682760) |
+| PRN Psychiatric Nurse Practitioner | Hope Services, LLC | REMOTE WORKER - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682544) |
+| Nurse Manager | Brownsville Community Development Corp | Brooklyn, NY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681236) |
+| Staff Nurse - LPN Floater | ADP employer 4622eaa1 | Florence, SC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4622eaa1-1ce0-4868-b1ab-a3377a13938a&ccId=19000101_000001&jobId=580776&lang=en_US&source=CC2) |
+| LPN/RN Homecare Night-Shift: (Children and Young Adults) | Phoenix Home Care and Hospice | Kansas City, Missouri, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/D7233149F0) |
+| LPN/RN Homecare - Nights - (Children and Young Adults) | Phoenix Home Care and Hospice | Wichita, Kansas, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/18680949E5) |
+| LPN/RN Homecare (Children and Young Adults) $3000 Sign On Bonus | Phoenix Home Care and Hospice | O'Fallon, Missouri, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/DB66D647D5) |
 | Licensed Vocational Nurse ( Job Fair ) | Sierra Meadows Behavioral Health | Clovis, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684362) |
 | Part-Time Registered Nurse | Nexus Family Healing | Onamia, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683669) |
 | RN/LPN Director of Mental Health Program | Psychiatric Medical Care LLC | Baudette, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681165) |
@@ -110,10 +118,9 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
 | Correctional Licensed Practical Nurse (Multiple Vacancies) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1926) |
 | Manager, Nurse- Emergency Department -Contract - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204871) |
-| Telemedicine Sexual Assault Medical Forensic Evaluation (Tele SANE) Registered... | Akicita Cyber | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/akicita-cyber/3b7efc32-8b9e-461d-b451-1b8c65c1825e) |
+| Psychiatric Mental Health Nurse Practitioner (PMHNP) | lifestance | Easton, MD |  | 2026-11-20 | [Apply](https://jobs.lever.co/lifestance/f3458b35-90f9-42c5-9d73-e15eaa98ae76) |
 | Registered Nurse - Surgical Services | Crossing Rivers Health | Prairie du Chien, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676135) |
 | Registered Nurse (RN) | Advanced Health Care of Albuquerque | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682066) |
-| Psychiatric Mental Health Nurse Practitioner | Included Health | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/includedhealth/4c802c33-b810-49d4-875b-7a1f992983fc) |
 | Registered Nurse (RN) - Home Health - Full Time | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515339009) |
 | TEMPORARY NURSE OPPORTUNITY (12 Week Assignment) | BAART Programs | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/oKY7Afw9) |
 | Dispensing Nurse-LPN/RN | BAART Programs | Hudson, NH, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/o0T5Afwi) |
@@ -157,8 +164,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | RN - Allergy, Asthma & Immunology Office | albanymed | 176 Washington Avenue Ext Albany, NY 12205 |  | 2026-11-20 | [Apply](https://albanymed.wd5.myworkdayjobs.com/en-US/albany_med/job/176-Washington-Avenue-Ext-Albany-NY-12205/RN---Allergy--Asthma---Immunology-Office_72225) |
 | Registered Nurse RN Med Surg Banner Staffing | bannerhealth | Banner North Colorado Medical Center (1801 16th St) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Registered-Nurse-RN-Med-Surg-Banner-Staffing_R4461706) |
 | Registered Nurse RN New Grad ICU | bannerhealth | BUMC South Tucson (2800 E Ajo Way) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Registered-Nurse-RN-New-Grad-ICU_R4461333-1) |
-| RN LDR Nights | bhs | Paducah, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Paducah-KY/RN-LDR-Nights_R26109875-1) |
-| Registered Nurse OR | bhs | Elizabethtown, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Registered-Nurse-OR_R26110063-1) |
 | Registered Nurse Med/Surg | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg_JR-116065) |
 | Registered Nurse Med/Surg Nights | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Nights_JR-116063) |
 | Registered Nurse Med-Surg Days | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Days_JR-115780) |
@@ -198,13 +203,8 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | PRN Infusion Registered Nurse (RN) | ivxhealth | Altamonte Springs, Florida, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ivxhealth/jobs/4511043009) |
 | Full-time Infusion Registered Nurse (RN) | ivxhealth | Yulee, Florida, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/ivxhealth/jobs/4487049009) |
 | Director of Nursing - $5,000 retention bonus | Dungarvin | Indianapolis, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162754350) |
-| RN Administrator, ASC - Ophthalmolgy | ecpcareers | Eastgate, OH |  | 2026-11-20 | [Apply](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8956223002) |
-| Certified Nurse Assistant CNA | ChristianLivingCommunities | Denver, CO, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ChristianLivingCommunities/744000162767392) |
-| Psychiatric Nurse Practitioner | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1930) |
-| Care Management Nurse or Social Worker | cambiahealth | 16 Locations |  | 2026-11-20 | [Apply](https://cambiahealth.wd504.myworkdayjobs.com/en-US/external/job/Lewiston-ID/Care-Management-Nurse-or-Social-Worker_R-7136) |
-| Lead Nurse - CA Dillon JDC (No Weekends, 8hr Shifts) | nc | Granville County, NC |  | 2026-11-20 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Granville-County-NC/Lead-Nurse---CA-Dillon-JDC--No-Weekends--8hr-Shifts-_JR-115124) |
-| License Vocational Nurse | pacs |  |  | 2026-11-20 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/San-Francisco-Post-Acute/License-Vocational-Nurse_JR190641) |
-| Psychiatric Mental Health Nurse Practitioner | Akicita Cyber | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/akicita-cyber/49da95ea-807a-4493-a26a-96bd6fc9023d) |
+| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Tarrytown, NY |  | 2026-11-20 | [Apply](https://jobs.lever.co/lifestance/d0cc5e21-b468-4aed-8077-372ec7273313) |
+| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Danvers, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/lifestance/5c8ea270-6048-48e2-8014-fd0d8db6ceea) |
 <!-- JOBS_TABLE_END -->
 
 <details>
