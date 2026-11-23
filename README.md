@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,703</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,035</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,11 +50,13 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**22,703 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**22,035 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Staff Nurse LPN- Evening | hebrewseniorlife | Dedham, MA |  | 2026-11-23 | [Apply](https://hebrewseniorlife.wd501.myworkdayjobs.com/en-US/hebrewseniorlifecareers/job/Dedham-MA/Staff-Nurse-LPN--Evening_R-102293) |
+| Staff Nurse LPN | hebrewseniorlife | Roslindale, MA |  | 2026-11-23 | [Apply](https://hebrewseniorlife.wd501.myworkdayjobs.com/en-US/hebrewseniorlifecareers/job/Roslindale-MA/Staff-Nurse-LPN_R-102300) |
 | RN Emergency Department New Grad Days | honorhealth |  |  | 2026-11-23 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Deer-Valley---19829-N-27th-Ave-Phoenix-AZ-85027/RN-Emergency-Department-New-Grad-Days_JR12422) |
 | Nurse Practitioner - NP/PA | CVS Health | MD - Eldersburg |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Eldersburg/Nurse-Practitioner---NP-PA_R1110790) |
 | Family Nurse Practitioner | CVS Health | PA - Richboro |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Richboro/Family-Nurse-Practitioner_R1112345) |
@@ -69,11 +71,11 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | LPN - PRN | AsburyCommunities | Wilmington, DE, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000163098490) |
 | Memory Care Nurse Practitioner - per diem | UVM Health Network | Colchester, VT |  | 2026-11-22 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Colchester-VT/Memory-Care-Nurse-Practitioner---per-diem_R0092114) |
 | Registered Nurse (RN) — Stepdown — Float Pool — St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Stepdown---Float-Pool---St-Rita-s-Medical-Center_R293537) |
+| Care Team Supervisor (LPN/LVN) | Oxford Senior Living | McKinney, TX, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bda59d7e-6de6-40ea-b7d2-302db0da4bcf&ccId=19000101_000001&jobId=585691&lang=en_US&source=CC2) |
 | Night ICU Nurse (Full Time) Silver Spring, Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662917) |
 | Night OR Nurse (Full Time) Silver Spring Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662891) |
 | Night OR Nurse (Full Time) Silver Spring Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4205057) |
 | Licensed Practical Nurse | Valor Healthcare, Inc. | Denton, TX |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3852357) |
-| Executive Director of Nursing | bhs | Louisville, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/Executive-Director-of-Nursing_R26109955) |
 | Dialysis Registered Nurse | freseniusmedicalcare | Rochester, NY |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rochester-NY/Dialysis-Registered-Nurse_R0272980-1) |
 | Registered Nurse (RN) - Hospital at Home - Day Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home---Day-Shift_JR94990) |
 | Registered Nurse (RN) - Hospital at Home - Night Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home_JR94988) |
@@ -104,6 +106,11 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | RN Case Manager, Emergency Department | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/RN-Case-Manager--Emergency-Department_R-0281978-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
+| Registered Nurse (RN) | PCM DASHBOARD | Stroudsburg, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682422) |
+| PRN Registered Nurse (RN) – Home Health | LifeCare Home Health | Graham, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679732) |
+| Registered Nurse - RN - Home Health - PRN | LifeCare Home Health | Fort Worth, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678112) |
+| Registered Nurse - RN - Home Health - PRN | LifeCare Home Health | Weatherford, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678053) |
+| SNF Resident Care Manager, RN | Ohana Pacific Health | Legacy Hilo, Hilo, HI, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c6d67b41-851c-48ec-b667-e1aed7fc5b1a&ccId=19000101_000001&jobId=547323&lang=en_US&source=CC2) |
 | Registered Nurse (RN) or Licensed Practical Nurse (LPN) | Larry H. Miller Senior Health (default) | Salem, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683852) |
 | Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Tallahassee, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681093) |
 | Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Pueblo, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682019) |
@@ -148,6 +155,7 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
 | Correctional Licensed Practical Nurse (Multiple Vacancies) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1926) |
 | Manager, Nurse- Emergency Department -Contract - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204871) |
+| Telemedicine Sexual Assault Medical Forensic Evaluation (Tele SANE) Registered... | Akicita Cyber | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/akicita-cyber/3b7efc32-8b9e-461d-b451-1b8c65c1825e) |
 | Registered Nurse - Surgical Services | Crossing Rivers Health | Prairie du Chien, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676135) |
 | Registered Nurse (RN) | Advanced Health Care of Albuquerque | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682066) |
 | Registered Nurse (RN) - Home Health - Full Time | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515339009) |
@@ -193,18 +201,10 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | RN - Allergy, Asthma & Immunology Office | albanymed | 176 Washington Avenue Ext Albany, NY 12205 |  | 2026-11-20 | [Apply](https://albanymed.wd5.myworkdayjobs.com/en-US/albany_med/job/176-Washington-Avenue-Ext-Albany-NY-12205/RN---Allergy--Asthma---Immunology-Office_72225) |
 | Registered Nurse RN Med Surg Banner Staffing | bannerhealth | Banner North Colorado Medical Center (1801 16th St) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Registered-Nurse-RN-Med-Surg-Banner-Staffing_R4461706) |
 | Registered Nurse RN New Grad ICU | bannerhealth | BUMC South Tucson (2800 E Ajo Way) |  | 2026-11-20 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Registered-Nurse-RN-New-Grad-ICU_R4461333-1) |
-| RN LDR Nights | bhs | Paducah, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Paducah-KY/RN-LDR-Nights_R26109875-1) |
-| Registered Nurse OR | bhs | Elizabethtown, KY |  | 2026-11-20 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Registered-Nurse-OR_R26110063-1) |
 | Registered Nurse Med/Surg | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg_JR-116065) |
 | Registered Nurse Med/Surg Nights | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Nights_JR-116063) |
 | Registered Nurse Med-Surg Days | brownhealth | Rhode Island Hospital |  | 2026-11-20 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Registered-Nurse-Med-Surg-Days_JR-115780) |
 | RN | Avera Health | Platte, SD |  | 2026-11-20 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Platte-SD/RN_R-260032009) |
-| Registered Nurse (RN) / Pain Clinic / PRN | Avera Health | Yankton, SD |  | 2026-11-20 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Registered-Nurse--RN----Pain-Clinic---PRN_R-260031992) |
-| Registered Nurse, Operating Room | Jefferson Health | Philadelphia, PA |  | 2026-11-20 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/Registered-Nurse--Operating-Room_REQ-0037475-2) |
-| RN Cancer Center - FT | Jefferson Health | 2 Locations |  | 2026-11-20 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/RN-Cancer-Center---FT_REQ-0039616-1) |
-| Registered Nurse - Inpatient Pediatrics | UVM Health Network | Burlington, VT |  | 2026-11-20 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Burlington-VT/Registered-Nurse---Inpatient-Pediatrics_R0092071) |
-| RN / LPN - Nurse | TheracareINC | Marion, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheracareINC/744000162786389) |
-| QMA - Qualified Medication Aide | TheracareINC | Marion, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheracareINC/744000162785847) |
 <!-- JOBS_TABLE_END -->
 
 <details>
