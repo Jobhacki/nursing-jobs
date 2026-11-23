@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,374</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,703</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 04:18 UTC</sub>
+<sub>Snapshot 2026-11-23 08:18 UTC</sub>
 
 </div>
 
@@ -50,18 +50,19 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**22,374 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 04:18 UTC.** Apply links go to the employer's career page or hiring system.
+**22,703 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| RN Emergency Department New Grad Days | honorhealth |  |  | 2026-11-23 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Deer-Valley---19829-N-27th-Ave-Phoenix-AZ-85027/RN-Emergency-Department-New-Grad-Days_JR12422) |
 | Nurse Practitioner - NP/PA | CVS Health | MD - Eldersburg |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Eldersburg/Nurse-Practitioner---NP-PA_R1110790) |
 | Family Nurse Practitioner | CVS Health | PA - Richboro |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Richboro/Family-Nurse-Practitioner_R1112345) |
 | Family Nurse Practitioner | CVS Health | NY - New York |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Family-Nurse-Practitioner_R1112349-1) |
 | Outpatient Licensed Practical Nurse - LPN LVN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Licensed-Practical-Nurse---LPN-LVN_R0277102) |
 | Outpatient Registered Nurse - RN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Registered-Nurse---RN_R0277658) |
+| RN, Senior LTSS Service Care Manager - Critical Care, ER, ICU | centene | 27 Locations |  | 2026-11-22 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Houston-Texas77007/Senior-LTSS-Service-Care-Manager-RN_1668086) |
 | Nurse Practitioner/ Physician Assistant (SUD) | steadfasthealth | Greensboro, North Carolina |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/steadfasthealth/jobs/5491809008) |
-| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Killeen, TX |  | 2026-11-22 | [Apply](https://jobs.lever.co/lifestance/fcac52fe-bedf-45b6-929b-0772854c55f6) |
 | Remote Nurse Practitioner - TX License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731472006) |
 | Remote Nurse Practitioner - MS License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731471006) |
 | Remote Nurse Practitioner - NC License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731470006) |
@@ -94,7 +95,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | FT & PT Nurse Aide/Med Aide - ENVH Bellevue | son | Bellevue, NE |  | 2026-11-21 | [Apply](https://son.wd108.myworkdayjobs.com/en-US/nebraskastatecareers/job/Bellevue-NE/FT---PT-Nurse-Aide-Med-Aide---ENVH-Bellevue_JR2026-00030676-1) |
 | RN Med/Surg 5EW- New Grads May Apply | honorhealth |  |  | 2026-11-21 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Osborn-Medical-Center---7400-E-Osborn-Rd-Scottsdale-AZ-85251/RN-Med-Surg-5EW--New-Grads-May-Apply_JR13805) |
 | RN Med Surg Part Time Nights | honorhealth |  |  | 2026-11-21 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Four-Peaks-Medical-Center---1301-S-Crismon-Rd-Mesa-AZ-85209/RN-Med-Surg-Part-Time-Nights_JR13355) |
-| RN ICU | honorhealth |  |  | 2026-11-21 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/John-C-Lincoln---250-E-Dunlap-Ave-Phoenix-AZ-85020/RN-ICU_JR13153) |
 | Home Infusion Field -Based Nurse, Full Time – Accredo – Raleigh, NC | cigna | Raleigh, NC |  | 2026-11-21 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Raleigh-NC/Home-Infusion-Field--Based-Nurse--Full-Time---Accredo---Raleigh--NC_26013906) |
 | Nurse Extern Cardiac Progressive Care Unit | bannerhealth | Wyoming Medical Center Central (1233 E Second St) |  | 2026-11-21 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Nurse-Extern-Cardiac-Progressive-Care-Unit_R4459396) |
 | Registered Nurse (RN) - Labor & Delivery (OB) - St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-21 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Labor---Delivery--OB----St-Rita-s-Medical-Center_R293020) |
@@ -104,6 +104,7 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | RN Case Manager, Emergency Department | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/RN-Case-Manager--Emergency-Department_R-0281978-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
+| Registered Nurse (RN) or Licensed Practical Nurse (LPN) | Larry H. Miller Senior Health (default) | Salem, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683852) |
 | Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Tallahassee, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681093) |
 | Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Pueblo, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682019) |
 | Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Kansas City, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682045) |
@@ -147,7 +148,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
 | Correctional Licensed Practical Nurse (Multiple Vacancies) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1926) |
 | Manager, Nurse- Emergency Department -Contract - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204871) |
-| Psychiatric Mental Health Nurse Practitioner (PMHNP) | lifestance | Easton, MD |  | 2026-11-20 | [Apply](https://jobs.lever.co/lifestance/f3458b35-90f9-42c5-9d73-e15eaa98ae76) |
 | Registered Nurse - Surgical Services | Crossing Rivers Health | Prairie du Chien, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676135) |
 | Registered Nurse (RN) | Advanced Health Care of Albuquerque | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682066) |
 | Registered Nurse (RN) - Home Health - Full Time | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515339009) |
