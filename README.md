@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-nursing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-nursing-jobs-light.svg"><img alt="Nursing jobs: JobHacki job list, last updated on Nov 22, 2026" src="assets/dist/hero-nursing-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-nursing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-nursing-jobs-light.svg"><img alt="Nursing jobs: JobHacki job list, last updated on Nov 23, 2026" src="assets/dist/hero-nursing-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>21,382</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,925</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 20:18 UTC</sub>
+<sub>Snapshot 2026-11-23 00:17 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken from employers' own hiring systems. Updated Nov 22, 2026.
+For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken from employers' own hiring systems. Updated Nov 23, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,11 +50,13 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**21,382 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**21,925 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Outpatient Licensed Practical Nurse - LPN LVN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Licensed-Practical-Nurse---LPN-LVN_R0277102) |
+| Outpatient Registered Nurse - RN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Registered-Nurse---RN_R0277658) |
 | LPN - PRN | AsburyCommunities | Wilmington, DE, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000163098490) |
 | Memory Care Nurse Practitioner - per diem | UVM Health Network | Colchester, VT |  | 2026-11-22 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Colchester-VT/Memory-Care-Nurse-Practitioner---per-diem_R0092114) |
 | Registered Nurse (RN) — Stepdown — Float Pool — St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Stepdown---Float-Pool---St-Rita-s-Medical-Center_R293537) |
@@ -67,8 +69,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Dialysis Registered Nurse | freseniusmedicalcare | Rochester, NY |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rochester-NY/Dialysis-Registered-Nurse_R0272980-1) |
 | Registered Nurse (RN) - Hospital at Home - Day Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home---Day-Shift_JR94990) |
 | Registered Nurse (RN) - Hospital at Home - Night Shift | christianacare | Newark, DE |  | 2026-11-21 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Newark-DE/Registered-Nurse--RN----Hospital-at-Home_JR94988) |
-| Acute Inpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | Akron, OH |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Akron-OH/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0278946) |
-| Acute Inpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | Cincinnati, OH |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Cincinnati-OH/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0278948) |
 | Registered Nurse - Inpatient Psychiatry | UVM Health Network | Burlington, VT |  | 2026-11-21 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Burlington-VT/Registered-Nurse---Inpatient-Psychiatry_R0090841-1) |
 | Registered Nurse - Ambulatory (Pediatrics Hematology Oncology) | Northwell Health | New Hyde Park, Queens, United States |  | 2026-11-21 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204147) |
 | Registered Nurse - Ambulatory (Pediatrics Cardiology - Part Time) | Northwell Health | Bay Shore, Suffolk, United States |  | 2026-11-21 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203248) |
@@ -92,12 +92,15 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Nurse Extern Cardiac Progressive Care Unit | bannerhealth | Wyoming Medical Center Central (1233 E Second St) |  | 2026-11-21 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Nurse-Extern-Cardiac-Progressive-Care-Unit_R4459396) |
 | Registered Nurse (RN) - Labor & Delivery (OB) - St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-21 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Labor---Delivery--OB----St-Rita-s-Medical-Center_R293020) |
 | Registered Nurse (RN) - Mother & Baby Unit (OB) - St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-21 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Mother---Baby-Unit--OB----St-Rita-s-Medical-Center_R292598) |
+| RN - Registered Nurse - Med Surge & Ortho - PT Flex | Sanford Health | MN, Bemidji |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MN-Bemidji/RN---Registered-Nurse---Med-Surge---Ortho---PT-Flex_R-0271825-1) |
+| APP - Nurse Practitioner / Endocrinology | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/APP---Nurse-Practitioner---Endocrinology_R-0251844) |
+| RN Case Manager, Emergency Department | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/RN-Case-Manager--Emergency-Department_R-0281978-1) |
 | Nurse Practitioner | CVS Health | MA - Medway |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Medway/Nurse-Practitioner_R1103431) |
 | Nurse Practitioner | CVS Health | MO - Saint Peters |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MO---Saint-Peters/Nurse-Practitioner_R1111533) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
-| Home Health Registered Nurse | AdvisaCare | Mount Pleasant, Michigan, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/7EB819AACB) |
-| Full Time Hospice Registered Nurse | AdvisaCare | Surprise, Arizona, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/F96BBFD203) |
+| Registered Nurse | Clarvida | Anaheim, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/pathways/job/oDL7AfwP) |
+| APRN-PRIMARY CARE / FAMILY NURSE PRACTIONER, FULL TIME, 3 DAYS AND PARTIAL AM S... | InterCommunity, Inc. | East Hartford, CT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683624) |
 | RN Case Manager | Western CT Home Care Inc | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/olv7Afwh) |
 | RN 1 | Danbury Hospital | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/o3jAAfwg) |
 | Registered Nurse(RN), Delivery Room, Per Diem | Danbury Hospital | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/oku5Afwd) |
@@ -134,9 +137,9 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
 | Correctional Licensed Practical Nurse (Multiple Vacancies) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1926) |
 | Manager, Nurse- Emergency Department -Contract - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204871) |
-| Telemedicine Sexual Assault Medical Forensic Evaluation (Tele SANE) Registered... | Akicita Cyber | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/akicita-cyber/3b7efc32-8b9e-461d-b451-1b8c65c1825e) |
 | Registered Nurse - Surgical Services | Crossing Rivers Health | Prairie du Chien, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676135) |
 | Registered Nurse (RN) | Advanced Health Care of Albuquerque | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682066) |
+| Psychiatric Mental Health Nurse Practitioner | Included Health | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/includedhealth/4c802c33-b810-49d4-875b-7a1f992983fc) |
 | Registered Nurse (RN) - Home Health - Full Time | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515339009) |
 | TEMPORARY NURSE OPPORTUNITY (12 Week Assignment) | BAART Programs | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/oKY7Afw9) |
 | Dispensing Nurse-LPN/RN | BAART Programs | Hudson, NH, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/o0T5Afwi) |
@@ -202,9 +205,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Student Nurse PCT - Emergency Department - LHAAMC | luminishealth | Annapolis, MD |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/luminishealth/jobs/5489666008?gh_jid=5489666008) |
 | Home Infusion RN- Per Diem | EVERSANA | Yuma, AZ, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000162805100) |
 | Licensed Practical Nurse | Dungarvin | Farmington, NM, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162798969) |
-| RN (P/T) Group Home - Queens | AHRCNYC1 | New York, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AHRCNYC1/744000162807379) |
-| 1099 Telemedicine Family Nurse Practitioner / Flexible Schedule | allarahealth | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/allarahealth/568ff762-bea2-41f8-af4b-e31daa982f31) |
-| Registered Nurse - Emergency Department | uvmhealth | Middlebury, VT |  | 2026-11-20 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/porter/job/Middlebury-VT/Registered-Nurse---Emergency-Department_R0089895-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
