@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>21,925</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,374</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 00:17 UTC</sub>
+<sub>Snapshot 2026-11-23 04:18 UTC</sub>
 
 </div>
 
@@ -50,17 +50,24 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**21,925 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**22,374 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 04:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Nurse Practitioner - NP/PA | CVS Health | MD - Eldersburg |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Eldersburg/Nurse-Practitioner---NP-PA_R1110790) |
+| Family Nurse Practitioner | CVS Health | PA - Richboro |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Richboro/Family-Nurse-Practitioner_R1112345) |
+| Family Nurse Practitioner | CVS Health | NY - New York |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Family-Nurse-Practitioner_R1112349-1) |
 | Outpatient Licensed Practical Nurse - LPN LVN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Licensed-Practical-Nurse---LPN-LVN_R0277102) |
 | Outpatient Registered Nurse - RN | freseniusmedicalcare | Clearwater, FL |  | 2026-11-23 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Clearwater-FL/Outpatient-Registered-Nurse---RN_R0277658) |
+| Nurse Practitioner/ Physician Assistant (SUD) | steadfasthealth | Greensboro, North Carolina |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/steadfasthealth/jobs/5491809008) |
+| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Killeen, TX |  | 2026-11-22 | [Apply](https://jobs.lever.co/lifestance/fcac52fe-bedf-45b6-929b-0772854c55f6) |
+| Remote Nurse Practitioner - TX License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731472006) |
+| Remote Nurse Practitioner - MS License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731471006) |
+| Remote Nurse Practitioner - NC License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731470006) |
 | LPN - PRN | AsburyCommunities | Wilmington, DE, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000163098490) |
 | Memory Care Nurse Practitioner - per diem | UVM Health Network | Colchester, VT |  | 2026-11-22 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Colchester-VT/Memory-Care-Nurse-Practitioner---per-diem_R0092114) |
 | Registered Nurse (RN) — Stepdown — Float Pool — St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Registered-Nurse--RN----Stepdown---Float-Pool---St-Rita-s-Medical-Center_R293537) |
-| Nurse Practitioner - NP/PA | CVS Health | MD - Annapolis |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Annapolis/Nurse-Practitioner---NP-PA_R1031182) |
 | Night ICU Nurse (Full Time) Silver Spring, Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662917) |
 | Night OR Nurse (Full Time) Silver Spring Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662891) |
 | Night OR Nurse (Full Time) Silver Spring Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4205057) |
@@ -95,10 +102,13 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | RN - Registered Nurse - Med Surge & Ortho - PT Flex | Sanford Health | MN, Bemidji |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MN-Bemidji/RN---Registered-Nurse---Med-Surge---Ortho---PT-Flex_R-0271825-1) |
 | APP - Nurse Practitioner / Endocrinology | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/APP---Nurse-Practitioner---Endocrinology_R-0251844) |
 | RN Case Manager, Emergency Department | Sanford Health | WI, Weston |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/RN-Case-Manager--Emergency-Department_R-0281978-1) |
-| Nurse Practitioner | CVS Health | MA - Medway |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Medway/Nurse-Practitioner_R1103431) |
-| Nurse Practitioner | CVS Health | MO - Saint Peters |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MO---Saint-Peters/Nurse-Practitioner_R1111533) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437599) |
+| Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Tallahassee, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681093) |
+| Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Pueblo, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682019) |
+| Nurse Practitioner/Physician Assistant | The Nurse Practitioner Group LLC | Kansas City, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682045) |
+| Registered Nurse | HELIA HEALTHCARE | ST. LOUIS, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681801) |
+| Licensed Practical Nurse | HELIA HEALTHCARE | YORKVILLE, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682164) |
 | Registered Nurse | Clarvida | Anaheim, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/pathways/job/oDL7AfwP) |
 | APRN-PRIMARY CARE / FAMILY NURSE PRACTIONER, FULL TIME, 3 DAYS AND PARTIAL AM S... | InterCommunity, Inc. | East Hartford, CT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683624) |
 | RN Case Manager | Western CT Home Care Inc | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/olv7Afwh) |
@@ -137,9 +147,9 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Certified Registered Nurse Anesthetist (CRNA) – Clearfork / $25K Sign-On Incent... | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989358&lang=en) |
 | Correctional Licensed Practical Nurse (Multiple Vacancies) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1926) |
 | Manager, Nurse- Emergency Department -Contract - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204871) |
+| Psychiatric Mental Health Nurse Practitioner (PMHNP) | lifestance | Easton, MD |  | 2026-11-20 | [Apply](https://jobs.lever.co/lifestance/f3458b35-90f9-42c5-9d73-e15eaa98ae76) |
 | Registered Nurse - Surgical Services | Crossing Rivers Health | Prairie du Chien, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676135) |
 | Registered Nurse (RN) | Advanced Health Care of Albuquerque | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682066) |
-| Psychiatric Mental Health Nurse Practitioner | Included Health | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/includedhealth/4c802c33-b810-49d4-875b-7a1f992983fc) |
 | Registered Nurse (RN) - Home Health - Full Time | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515339009) |
 | TEMPORARY NURSE OPPORTUNITY (12 Week Assignment) | BAART Programs | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/oKY7Afw9) |
 | Dispensing Nurse-LPN/RN | BAART Programs | Hudson, NH, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/o0T5Afwi) |
@@ -195,16 +205,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Registered Nurse - Inpatient Pediatrics | UVM Health Network | Burlington, VT |  | 2026-11-20 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Burlington-VT/Registered-Nurse---Inpatient-Pediatrics_R0092071) |
 | RN / LPN - Nurse | TheracareINC | Marion, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheracareINC/744000162786389) |
 | QMA - Qualified Medication Aide | TheracareINC | Marion, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/TheracareINC/744000162785847) |
-| Psychiatric Nurse Practitioner | valerahealth | Nevada |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/valerahealth/jobs/6267586004) |
-| Registered Nurse- Infusion, PRN | vailclinicincdbavailhealthhospital | Edwards, Colorado, United States |  | 2026-11-20 | [Apply](https://www.vailhealth.org/careers/jobs/6267667004?gh_jid=6267667004) |
-| Licensed Vocational Nurse (Fort Worth, Texas) | tuesdayhealth | Fort Worth, Texas |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tuesdayhealth/jobs/4516982009) |
-| Registered Nurse | sonobello | TN - Knoxville |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/sonobello/jobs/5490786008) |
-| RN Ambulatory - Traverse Heart and Vascular | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017003376) |
-| Registered Nurse - Surgical Services - OR - Full Time (40 hours/week) | KittitasValleyHealthcare | Ellensburg, WA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/KittitasValleyHealthcare/744000162789517) |
-| Student Nurse PCT - Telemetry Unit | luminishealth | Lanham, MD |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/luminishealth/jobs/5485412008?gh_jid=5485412008) |
-| Student Nurse PCT - Emergency Department - LHAAMC | luminishealth | Annapolis, MD |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/luminishealth/jobs/5489666008?gh_jid=5489666008) |
-| Home Infusion RN- Per Diem | EVERSANA | Yuma, AZ, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000162805100) |
-| Licensed Practical Nurse | Dungarvin | Farmington, NM, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162798969) |
 <!-- JOBS_TABLE_END -->
 
 <details>
