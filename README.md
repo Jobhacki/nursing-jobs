@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,734</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,935</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 00:18 UTC</sub>
+<sub>Snapshot 2026-11-24 04:18 UTC</sub>
 
 </div>
 
@@ -50,12 +50,23 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**22,734 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**22,935 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Psychiatric Mental Health Nurse Practitioner | SIHF Healthcare | Granite City, IL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cd55f7d5-9b60-4a70-a43a-5cbee9c29c61&ccId=19000101_000001&jobId=600432&lang=en_US&source=CC2) |
+| Licensed Vocational Nurse/LPT | Inc | Palmdale, CA, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=094a5148-4464-41e3-a172-2b560815bcb6&ccId=19000101_000001&jobId=634928&lang=en_US&source=CC2) |
+| Embedded Care Management Nurse or Social Worker | cambiahealth | Bismarck, ND |  | 2026-11-24 | [Apply](https://cambiahealth.wd504.myworkdayjobs.com/en-US/external/job/Bismarck-ND/Embedded-Care-Management-Nurse-or-Social-Worker_R-6933) |
+| RN - ICU Weekend Option 7a | bhs | Paducah, KY |  | 2026-11-24 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Paducah-KY/RN---ICU-Weekend-Option-7a_R26110247) |
+| Registered Nurse (CVOR) | bhs | Lexington, KY |  | 2026-11-24 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Lexington-KY/Registered-Nurse--CVOR-_R26110380) |
+| Registered Nurse NICU PRN Days | bhs | Louisville, KY |  | 2026-11-24 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/Registered-Nurse-NICU-PRN-Days_R26110126) |
+| Nurse Supervisor PD | brownhealth | Rhode Island Hospital |  | 2026-11-24 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Nurse-Supervisor-PD_JR-116394) |
+| Outpatient Registered Nurse - RN | freseniusmedicalcare | Mt Morris, MI |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Mt-Morris-MI/Outpatient-Registered-Nurse---RN_R0278705) |
+| Outpatient Registered Nurse - RN | freseniusmedicalcare | Muskegon, MI |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Muskegon-MI/Outpatient-Registered-Nurse---RN_R0278295) |
+| Licensed Vocational Nurse LVN | CVS Health | TX - Austin |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Austin/Licensed-Vocational-Nurse-LVN_R1113298) |
+| Stroke Nurse Practitioner (NP) or Physician Assistant (PA)-PRN | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017050376) |
+| Urology Nurse Practitioner (NP) or Physician Assistant (PA) | Munson Healthcare | Gaylord, Michigan, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017050416) |
+| Contract Enrollment Nurse | Virta Health | Remote |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/virtahealth/80c11f02-5f7a-49e6-b866-d72efbe6e5f3) |
 | LPN – Skilled Nursing | uvmhealth | Malone, NY |  | 2026-11-24 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/ahmc/job/Malone-NY/LPN---Skilled-Nursing_R0092060) |
 | CNA - Skilled Nursing | uvmhealth | Malone, NY |  | 2026-11-24 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/ahmc/job/Malone-NY/CNA---Skilled-Nursing_R0090025) |
 | Public Health Nurse Practitioner - Full-Time OR Part-Time | weldgov | Greeley, CO |  | 2026-11-24 | [Apply](https://weldgov.wd5.myworkdayjobs.com/en-US/weldcountycareers/job/Greeley-CO/Public-Health-Nurse-Practitioner---Full-Time-OR-Part-Time_JR102800-1) |
@@ -74,14 +85,11 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Registered Nurse (RN) - Post Anesthesia Care Unit (PACU) - Tiffin Hospital | easyservice | Tiffin, OH |  | 2026-11-24 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Tiffin-OH/Registered-Nurse--RN----Post-Anesthesia-Care-Unit--PACU----Tiffin-Hospital_R290970) |
 | Registered Nurse - Main PACU - Anderson Hospital | easyservice | Cincinnati, OH |  | 2026-11-24 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Registered-Nurse---Main-PACU---Anderson-Hospital_R293138) |
 | RN | freseniusmedicalcare | Baltimore, MD, USA |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Baltimore-MD-USA/RN_R0277439) |
-| Outpatient Registered Nurse - RN | freseniusmedicalcare | FL007 FMCNA FWB - Clinic |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/FL007-FMCNA-FWB---Clinic/Outpatient-Registered-Nurse---RN_R0278781) |
-| Inpatient Registered Nurse - RN | freseniusmedicalcare | FL050 Bradenton - Clinic |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/FL050-Bradenton---Clinic/Inpatient-Registered-Nurse---RN_R0278200) |
 | RN Care Manager, Ambulatory | Sanford Health | MI, Marquette |  | 2026-11-24 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MI-Marquette/RN-Care-Manager--Ambulatory_R-0280059) |
 | LPN - Part Time (Straight Nights, Straight Weekends) | Sanford Health | IA, Ottumwa |  | 2026-11-24 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/IA-Ottumwa/LPN---Part-Time--Straight-Nights--Straight-Weekends-_R-0282653) |
 | RN - Registered Nurse - 69th & Louise Children's Clinic - FT Days | Sanford Health | SD, Sioux Falls |  | 2026-11-24 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/RN---Registered-Nurse---69th---Louise-Children-s-Clinic---FT-Days_R-0281744) |
 | In-Home Nurse Practitioner or Physician Assistant - Full Time - Allentown PA | CVS Health | PA - Allentown |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Allentown/In-Home-Nurse-Practitioner-or-Physician-Assistant---Full-Time---Allentown-PA_R1109310) |
 | In-Home Nurse Practitioner or Physician Assistant - Part Time - Philadelphia PA | CVS Health | PA - Philadelphia |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Philadelphia/In-Home-Nurse-Practitioner-or-Physician-Assistant---Part-Time---Philadelphia-PA_R1109256) |
-| In-Home Nurse Practitioner or Physician Assistant (Full Time) - Philadelphia PA | CVS Health | PA - Philadelphia |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Philadelphia/In-Home-Nurse-Practitioner-or-Physician-Assistant--Full-Time----Philadelphia-PA_R1109218) |
 | Registered Nurse (RN) Clinical Quality Analyst | Avera Health | Sioux Falls, SD |  | 2026-11-24 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Registered-Nurse--RN--Clinical-Quality-Analyst_R-260026593) |
 | OB RN | Avera Health | Cresco, IA |  | 2026-11-24 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Cresco-IA/OB-RN_R-260032075-1) |
 | Project Specialist OR Registered Nurse Coordinator (RN) | Avera Health | 5 Locations |  | 2026-11-24 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Pierre-SD/Project-Specialist-OR-Registered-Nurse-Coordinator--RN-_R-260030343-1) |
@@ -89,22 +97,23 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Registered Nurse - Emergency Trauma Center (FT - Night) - Jefferson Abington | Jefferson Health | Montgomery County, PA |  | 2026-11-24 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Montgomery-County-PA/Registered-Nurse---Emergency-Trauma-Center--FT---Night----Jefferson-Abington_REQ-0039830-1) |
 | Registered Nurse - Emergency Trauma Center (FT - Night) - Jefferson Abington | Jefferson Health | Montgomery County, PA |  | 2026-11-24 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Montgomery-County-PA/Registered-Nurse---Emergency-Trauma-Center--FT---Night----Jefferson-Abington_REQ-0039829-1) |
 | RN Ambulatory - Cardiac Rehab and Prevention | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017049681) |
+| Nurse Practitioner-Medical | BAART Programs | Effingham, NH, United States |  | 2026-11-23 | [Apply](https://jobs.jobvite.com/baart-programs/job/o8p7AfwY) |
+| Surgical Physician Assistant/Nurse Practitioner | CLEAR CHOICE DERMATOLOGY LLC | Hillsboro, OR |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681817) |
+| RN, Registered Nurse Hospice | vitalcaringgroup | Houston, Texas, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4517397009) |
+| Registered Nurse (Outpatient Surgery Center) | springfertility | Sunnyvale, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/springfertility/jobs/4758187005) |
+| Nurse Practitioner or Physicians Assistant | metroveincenters | Dearborn, MI |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/metroveincenters/jobs/4519662009) |
 | Chief Nursing Officer / Director of Nursing RN | Ignite Medical Resorts | Charlotte, NC |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685724) |
 | Licensed Practical Nurse / Registered Nurse | Ignite Medical Resorts | Blue Springs, MO |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686246) |
 | Certified Medication Technician | Ignite Medical Resorts | Kansas City, MO |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686308) |
 | Emergency Department RN - Part-time, Days | Grace Cottage Family Health & Hospital | Townshend, VT |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685139) |
 | Emergency Department RN - Part-time, Nights | Grace Cottage Family Health & Hospital | Townshend, VT |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685428) |
 | Certified Nurse Midwife (CNM) | Advantia Health | Frederick, MD |  | 2026-11-23 | [Apply](https://advantia-health.breezy.hr/p/cdc8322ead68-certified-nurse-midwife-cnm) |
-| Hospice On-Call Registered Nurse- weekends | KeystoneCare | Philadelphia, Pennsylvania, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/2E4A9351AD) |
 | RN, Registered Nurse Home Health | vitalcaringgroup | Gautier, Mississippi, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4515346009) |
 | Nurse Practitioner/Physician Assistant: Post-Acute & SNF (Full -Time) | theoriamedical | Topeka, KS |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/theoriamedical/jobs/5491540008?gh_jid=5491540008) |
 | Nurse Practitioner/Physician Assistant: Post-Acute & SNF (Full -Time) | theoriamedical | Chanute, KS |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/theoriamedical/jobs/5491520008?gh_jid=5491520008) |
 | Registered Nurse-Emergency Department Part Time Nights | Northwestern Memorial Healthcare | Woodstock, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163326589) |
 | Nursing Manager of Operations-Float Pool | Northwestern Memorial Healthcare | Palos Heights, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163328569) |
 | Wellness Resource Nurse | mathersplendido | Splendido (Tucson, AZ) |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/mathersplendido/jobs/5307411007) |
-| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Danvers, MA |  | 2026-11-23 | [Apply](https://jobs.lever.co/lifestance/e1245464-fb04-4194-b9dc-fad24c2639f0) |
-| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Newton, MA |  | 2026-11-23 | [Apply](https://jobs.lever.co/lifestance/c14f4a55-3d59-4484-81e9-6e6777502f76) |
-| Psychiatric Nurse Practitioner (PMHNP) | lifestance | Framingham, MA |  | 2026-11-23 | [Apply](https://jobs.lever.co/lifestance/af616808-e314-4bf8-9654-704e0ee43bd5) |
 | Registered Nurse Neighborhood Manager $100,000 - $106,000 Annually | ChristianLivingCommunities | Centennial, CO, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/ChristianLivingCommunities/744000163329495) |
 | Registered Nurse (RN) (Part Time, 7a-3p) | connectionshealthsolutions | San Francisco, California, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4519732009) |
 | Certified Medication Technician (CMT) / Casual Part-Time /2:45pm - 11:15pm /32... | bethesdahealthgroup | Bethesda Dilworth |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/bethesdahealthgroup/jobs/4519358009) |
@@ -136,7 +145,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | CNA - Weekend Option | TheracareINC | Indianapolis, IN, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/TheracareINC/744000163268540) |
 | Aesthetic Injector (Nurse Practitioner - Part-Time) | peachy | Austin, TX |  | 2026-11-23 | [Apply](https://boards.greenhouse.io/peachy/jobs/4731711006?gh_jid=4731711006) |
 | Physician Assistant or Acute Care-Nurse Practitioner Pre-Op, Full-time Days | Northwestern Memorial Healthcare | Huntley, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163275859) |
-| Munson Healthcare Registered Nurse | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017044136) |
 | Hospice Registered Nurse / RN On-Call (7 On/7 Off, 5PM-8AM) | missionhealthcare | Salem, OR |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/missionhealthcare/jobs/4512848009) |
 | Registered Nurse, PRN Nights | IntuitiveHealth1 | Frisco, TX, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990017034401) |
 | Registered Nurse, FT Nights | IntuitiveHealth1 | Frisco, TX, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990017034566) |
@@ -174,6 +182,7 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Remote Nurse Practitioner - NC License Required | cadencehealth | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cadencehealth/jobs/4731470006) |
 | LPN - PRN | AsburyCommunities | Wilmington, DE, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000163098490) |
 | Memory Care Nurse Practitioner - per diem | UVM Health Network | Colchester, VT |  | 2026-11-22 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/External/job/Colchester-VT/Memory-Care-Nurse-Practitioner---per-diem_R0092114) |
+| Staff Nurse II - Short Stay Unit - Full Time - 8hr - 1100-1900- AM Variable Shi... | Washington Hospital | Fremont, CA, United States |  | 2026-11-21 | [Apply](https://jobs.jobvite.com/washingtonhospital/job/oPO6Afw3) |
 | Licensed Practical Nurse - Bronx | ADAPT Community Network | Bronx, NY |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684432) |
 | Night ICU Nurse (Full Time) Silver Spring, Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662917) |
 | Night OR Nurse (Full Time) Silver Spring Maryland | Infinisource Consulting Solutions | Silver Spring, MD |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662891) |
@@ -194,17 +203,8 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Home Infusion Field -Based Nurse, Full Time – Accredo – Raleigh, NC | cigna | Raleigh, NC |  | 2026-11-21 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Raleigh-NC/Home-Infusion-Field--Based-Nurse--Full-Time---Accredo---Raleigh--NC_26013906) |
 | Nurse Extern Cardiac Progressive Care Unit | bannerhealth | Wyoming Medical Center Central (1233 E Second St) |  | 2026-11-21 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Nurse-Extern-Cardiac-Progressive-Care-Unit_R4459396) |
 | Onsite Care Coordination Nurse | Humana | 12 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Texas/Onsite-Care-Coordination-Nurse_R-437748-1) |
-| Clinic & Injection Room Nurse (LPN/RN) | Family Allergy & Asthma | Doylestown, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4527669) |
-| Night Shift - Pediatric Transitional Nurse – Registered Nurse (RN) / Licensed V... | Angels of Care Pediatric Home Health | Tyler, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oW28Afwq) |
-| Pediatric Transitional Nurse – Registered Nurse (RN) Licensed Practical Nurse (... | Angels of Care Pediatric Home Health | Gainesville, FL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oaa8AfwM) |
-| Pediatric Transitional Nurse – Registered Nurse (RN) Licensed Practical Nurse (... | Angels of Care Pediatric Home Health | Orlando, FL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oca8AfwO) |
-| Registered Nurse | Anne Arundel Urology PA | Annapolis, MD |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668181) |
-| Psychiatric Mental Health Nurse Practitioner | Mindfully | East Cincinnati, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682306) |
-| Psychiatric Mental Health Nurse Practitioner | Mindfully | West Cincinnati, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682335) |
-| Registered Nurse (RN) | PCM DASHBOARD | Stroudsburg, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682422) |
-| PRN Registered Nurse (RN) – Home Health | LifeCare Home Health | Graham, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679732) |
-| Registered Nurse - RN - Home Health - PRN | LifeCare Home Health | Fort Worth, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678112) |
-| Registered Nurse - RN - Home Health - PRN | LifeCare Home Health | Weatherford, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678053) |
+| Live-In Camp Nurse (RN/LPN) | Frost Valley YMCA | Claryville, NY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682631) |
+| Admissions Registered Nurse (RN) | Unity Hospice | Sturgeon Bay, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682942) |
 <!-- JOBS_TABLE_END -->
 
 <details>
