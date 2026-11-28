@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,780</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,817</h3><sub>open nursing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-28 00:18 UTC</sub>
+<sub>Snapshot 2026-11-28 04:19 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 
 ## Open jobs
 
-**22,780 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**22,817 open nursing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 04:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -104,6 +104,9 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Outpatient Registered Nurse - RN - Dialysis | freseniusmedicalcare | CA282 FMCNA Palm Desert RAI - Clinic |  | 2026-11-26 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/CA282-FMCNA-Palm-Desert-RAI---Clinic/Outpatient-Registered-Nurse---RN---Dialysis_R0279037) |
 | Registered Nurse (RN) / Behavioral Health Clinic / PRN | Avera Health | Yankton, SD |  | 2026-11-26 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Registered-Nurse--RN----Behavioral-Health-Clinic---PRN_R-260032017) |
 | Registered Nurse (RN) / Oncology - Chemo | Avera Health | Yankton, SD |  | 2026-11-26 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Registered-Nurse--RN----Oncology---Chemo_R-260032206) |
+| Registered Nurse YIU | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oOS4Afw4) |
+| Registered Nurse AIU | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/olj9Bfw8) |
+| RN Director of Mental Health Program | Psychiatric Medical Care LLC | Sheridan, MI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694702) |
 | Registered Nurse (RN) - University Cancer Specialists | University Physicians' Association | Knoxville, TN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3472085) |
 | Registered Nurse (RN) | Personalcare Registered Professional Nursing | Jamesville, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693251) |
 | Bilingual LPN, Remote Care - Remote/Buffalo, NY | Brook Inc. | Buffalo, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695068) |
@@ -130,11 +133,13 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Travel - Registered Nurse - Med Surg/Tele - FlexStaff - $2,902 /wk | Northwell Health | Rhinebeck, Dutchess, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/205222) |
 | Travel - Registered Nurse - LDRP - FlexStaff - $3,211 /wk | Northwell Health | Carmel, Putnam, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/205221) |
 | Travel - Registered Nurse - Interventional Radiology (IR) - FlexStaff - $3,246... | Northwell Health | Danbury, Fairfield, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/205223) |
+| (LPN) Psychiatric Nurse - ACT Team - SIGN-ON Bonus | teambuilders | Taos, New Mexico |  | 2026-11-25 | [Apply](https://jobs.lever.co/teambuilders/43481d44-a199-4b25-ab52-a06db8fafccd) |
 | Part TIme Nurse LPN | Community Medical Services | Show Low, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693017) |
 | Nurse LPN | Community Medical Services | Portland, OR |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692407) |
 | Wellness Nurse-With Weekend Availability | Cogir Management, USA Inc | Owings Mills, MD |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694459) |
 | Registered Nurse- Medical Surgical (FT Nights) | St. James Hospital | Hornell, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693007) |
 | Registered Nurse Procedure Center | Atlanta Womens Healthcare | Atlanta, GA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693950) |
+| Nurse Practitioner or Physician Assistant - Durango CO | MRG Exams | Durango, Colorado, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/55FE5A138E) |
 | Nurse Practitioner / Physician Assistant / Primary Care & Women’s Health (32 Ho... | tia | Los Angeles, California, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tia/jobs/8217190003) |
 | Los Angeles Per Diem Nurse Practitioner / Physician Assistant | tia | Los Angeles, California, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tia/jobs/8217156003) |
 | Lead Nurse Practitioner / Physician Assistant - Women's Health & Primary Care | tia | Culver City, California, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tia/jobs/8217173003) |
@@ -143,8 +148,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Registered Nurse (RN) | Illuminus | Fond du Lac, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693527) |
 | Registered Nurse (RN) - 0.5 NOC | Illuminus | Janesville, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693535) |
 | Licensed Practical Nurse (LPN) | Illuminus | Fond du Lac, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693555) |
-| Registered Nurse- Per Diem | Madrona Hospice Care Inc. | San Rafael, California, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/8BF370A485) |
-| Licensed Practical/ Vocational Nurse | Madrona Hospice Care Inc. | Sonoma, California, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/3F392320A0) |
 | Lead Nurse | aoncology | US-FL-Naples |  | 2026-11-25 | [Apply](https://aoncology.wd12.myworkdayjobs.com/en-US/aoncology_careers/job/US-FL-Naples/Lead-Nurse_JR7808) |
 | Physician Assistant / Nurse Practitioner Fellowship | aspendental | Plattsburgh, New York |  | 2026-11-25 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/wellnowurgentcarecareers/job/Plattsburgh-New-York/Physician-Assistant---Nurse-Practitioner-Fellowship_R2026-014565) |
 | Physician Assistant / Nurse Practitioner Fellowship | aspendental | New Hartford, New York |  | 2026-11-25 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/wellnowurgentcarecareers/job/New-Hartford-New-York/Physician-Assistant---Nurse-Practitioner-Fellowship_R2026-014563) |
@@ -202,9 +205,6 @@ For RNs, LPNs, NPs, and more, this list is a fresh slice of nursing jobs taken f
 | Primary Care Registered Nurse (RN) | HealthFirst Family Care Center, Inc. | Fall River, MA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690705) |
 | Camp Nurse | YMCA of Greater Grand Rapids | Middleville, MI |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690853) |
 | Infusion Nurse - Home Infusion | Soleo Health Inc | Plum, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690116) |
-| Infusion Nurse - Home Infusion | Soleo Health Inc | Lorain, OH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690178) |
-| Nurse for Residential Treatment Facility | BAART Programs | Canterbury, NH, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/baart-programs/job/okz8Afwl) |
-| Nurse - RN/LPN | BAART Programs | Dayton, OH, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/baart-programs/job/orOYAfwx) |
 <!-- JOBS_TABLE_END -->
 
 <details>
